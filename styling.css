@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Inter:wght@400;700;800&family=Manrope:wght@800&family=Red+Hat+Display:wght@500;700;900&family=Vollkorn:wght@500&display=swap');
+
+body{
+    background-color: #f5f3f3
+}
+.container{
+    border-radius: 10px;
+    margin: 100px auto;
+    background: #ffffff;
+    box-shadow: 4px 4px 4px rgba( 0, 0, 0, 0.1 );
+    padding: 20px;
+}
+.text-center{
+    padding: 30px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: Zeyada;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+    padding: 5px;
+}
+.btn{
+    font-weight: bold;
+    font-size: 15px;
+} 
